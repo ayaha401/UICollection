@@ -472,6 +472,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: HSVSlider
       objectReference: {fileID: 0}
+    - target: {fileID: 3862294232143876460, guid: b038392bf4cc0f641818a8577fec603d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3862294232772803254, guid: b038392bf4cc0f641818a8577fec603d, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
